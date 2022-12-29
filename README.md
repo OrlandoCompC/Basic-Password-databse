@@ -1,2 +1,2 @@
-# Basic-Password-databse
-Simple school projects
+# Simple school projects
+
